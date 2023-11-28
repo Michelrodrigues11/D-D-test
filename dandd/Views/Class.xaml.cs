@@ -1,18 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+namespace dandd.Views;
 
-
-namespace dandd.Views
+public partial class Class : ContentPage
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Class : ContentPage
-    {
-        public Class()
-        {
-            InitializeComponent();
-        }
-    }
+	public Class()
+	{
+		InitializeComponent();
+	}
 }

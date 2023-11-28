@@ -41,7 +41,6 @@
              HorizontalOptions="Fill" />
 
             <BoxView Color="#D9D9D9"
-            
              WidthRequest="331"
              HeightRequest="103"
              HorizontalOptions="Fill" />

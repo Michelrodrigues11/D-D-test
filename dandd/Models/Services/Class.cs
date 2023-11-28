@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace dandd.Models.Services
 {
-    public class Class
+    internal class Class
     {
-        public int Name{ get; set; }
-        
-       
     }
 }
